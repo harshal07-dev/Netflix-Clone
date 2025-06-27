@@ -1,4 +1,4 @@
-# Netflix Clone - ReactJS
+# Netflix Clone
 
 This is a **Netflix clone** built with **ReactJS**. It showcases my understanding of various React concepts and is an excellent project for learning React.
 
